@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liwei (Tony) Jiang&#39;s Personal Website</title>
+    <link>/</link>
+    <description>Recent content on Liwei (Tony) Jiang&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, dear visitor! Nice to e-meet you! Thank you for your visit!
+This is Liwei (Tony) Jiang’s personal website (Shout out to Joe Bahr, who helps me build this website! The best R tutor!!). I am from a small northern town in China. Interestingly, the English translation of my hometown’s name is New York (This is 100% true!!). I am a graduate student of public policy with energy and environment concentration at Duke University Sanford School of Public Policy, graduating in May 2023.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/2023/03/08/cv/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/03/08/cv/</guid>
+      <description>Here is my CV!</description>
+    </item>
+    
+    <item>
+      <title>How to Stop Rat Race in China</title>
+      <link>/2023/03/07/how-to-stop-rat-race-in-china/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/03/07/how-to-stop-rat-race-in-china/</guid>
+      <description>In this blog, I will try to explain why rat race becomes prevalent in China&amp;rsquo; labor market using economic and game theory concepts. Them, I will introduce potential policy implications of this issue.</description>
+    </item>
+    
+  </channel>
+</rss>
