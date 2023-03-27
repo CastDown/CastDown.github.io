@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 97365bb1-8811-4b7d-b0e1-ffc1ed84fc72
+      url: 'https://super-lokum-9926ee.netlify.app'

@@ -1,0 +1,20 @@
+---
+title: "What Can We Do to Stop Rat Race in China's Labor Market"
+description: "Productivity and Individual Utility - A Chicken and Egg Problem"
+author:
+  - name: Liwei Jiang
+    url: https://samanthacsik.github.io/
+    orcid: 0009-0004-3530-8862
+    affiliation: Master of Public Policy Program @ Sanford School of Public Policy, Duke University
+date: 03-10-2023
+categories: [Economic Development, Labor Market] # self-defined categories
+citation: 
+  url: https://samanthacsik.github.io/
+  #use links
+# image:  # file name of the picture, the picture should live in this subdirectory
+draft: false # setting this to `true` will prevent your post from appearing
+---
+
+# Summary
+
+Rat race in the labor market is unhealthy and not sustainable to individuals and society as a whole.The abundant labor supply in China contributes to the prevalence of rat race. But there is more than that. To eliminate rat race phenomenon, the government needs to increase the generosity of its social safety net programs. However, the required financial premises and tradeoff with productivity entails further investigation.

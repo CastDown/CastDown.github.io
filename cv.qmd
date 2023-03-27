@@ -1,0 +1,71 @@
+---
+title: My Curriculum Vitae
+---
+
+***EDUCATION***
+
++------------+-----------------------------------------------+-----------------+
+| 2021～2023 | Duke University                               | Durham, NC      |
+|            |                                               |                 |
+|            | Candidate for Master of Public Policy,        |                 |
+|            |                                               |                 |
+|            | Energy and Environment Policy Concentration   |                 |
++------------+-----------------------------------------------+-----------------+
+| 2014～2018 | Southern University of Science and Technology | Shenzhen, China |
+|            |                                               |                 |
+|            | Bachelor of Science in Chemistry              |                 |
++------------+-----------------------------------------------+-----------------+
+
+***EXPERIENCE***
+
++------------------+---------------------------------------+-----------------+
+| *2023\~Now*      | Duke University                       | Durham, NC      |
+|                  |                                       |                 |
+|                  | Research Assistant                    |                 |
++------------------+---------------------------------------+-----------------+
+| *2022.5\~2022.7* | International Finance Corporation     | Washington DC   |
+|                  |                                       |                 |
+|                  | Research Analyst Intern               |                 |
++------------------+---------------------------------------+-----------------+
+| *2020.8\~2021.7* | Shenzhen Neoseeds Education Co., Ltd. | Shenzhen, China |
+|                  |                                       |                 |
+|                  | Online Promotion Operator             |                 |
++------------------+---------------------------------------+-----------------+
+| *2019.3\~2020.8* | Shenzhen Newyes Technology Co., Ltd.  | Shenzhen, China |
+|                  |                                       |                 |
+|                  | Foreign Business Salesman             |                 |
++------------------+---------------------------------------+-----------------+
+| *2017.9\~2019.3* | Shenzhen Buydeem Technology Co., Ltd. | Shenzhen, China |
+|                  |                                       |                 |
+|                  | E-Commerce Operator                   |                 |
++------------------+---------------------------------------+-----------------+
+
+***PROJECTS***
+
+|                                  |                                                                                                   |
+|----------------------------------|---------------------------------------------------------------------------------------------------|
+| Master's Project                 | Enhancing the Adoption of Green Agricultural Technologies in Guangdong, China                     |
+| Spring Consulting Project        | North Carolina's Policing and ARP Funds Allocation - Client: North Carolina Budget and Tax Center |
+| Development Intervention Project | Promoting Catastrophic Agriculture Insurance in Henan China                                       |
+| Econometrics Project I           | Assessing National Policy Impact on China's Interprovincial Trades and Exports                    |
+| Econometrics Project II          | The Effect of Deferred Action for Childhood Arrivals on Unauthorized immigrants                   |
+
+***AWARDS & CERTIFICATES***
+
+-   Finalist, International Finance Corporation's Impact Investing Global Challenge in 2022 (Topic: Leveraging regional green bonds to boost renewable energy and alleviate energy poverty in West Africa)
+
+-   Completed Project Management for Development Professionals (PMD Pro) in 2022
+
+-   Achieved Bloomberg Market Concepts Certificate in 2023
+
+-   Acquired Bloomberg ESG Certificate in 2023
+
+***LEADERSHIP***
+
+|              |                                                |                                               |
+|--------------|------------------------------------------------|-----------------------------------------------|
+| *2022\~2023* | Treasuerer                                     | Sanford School Student Council                |
+| *2022\~2023* | Non-Voting Board Member                        | Thomas Leadership Mentor Academy              |
+| *2015\~2018* | Captain, Men's Soccer College Team             | Southern University of Science and Technology |
+| *2015\~2018* | Captain, Men's Soccer Team of Zhicheng College | Southern University of Science and Technology |
+| *2015\~2017* | President, Student Union of Zhicheng College   | Southern University of Science and Technology |

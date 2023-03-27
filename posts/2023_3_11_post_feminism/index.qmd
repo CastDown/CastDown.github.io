@@ -1,0 +1,20 @@
+---
+title: "Feminism and Labor Supply"
+description: "Some Thoughts Hopefully Reasonable"
+author:
+  - name: Liwei Jiang
+    url: https://castdown.github.io/
+    orcid: 0009-0004-3530-8862
+    affiliation: Master of Public Policy Program @ Sanford School of Public Policy, Duke University
+date: 03-10-2023
+categories: [Economic Development, Labor Market] # self-defined categories
+citation: 
+  url: https://samanthacsik.github.io/
+  #use links
+# image:  # file name of the picture, the picture should live in this subdirectory
+draft: false # setting this to `true` will prevent your post from appearing
+---
+
+# Summary
+
+Women around the world has garnered various rights since the inception of feminism. However, the long history of feminism also entails different understanding/streams of feminism around the world. The ultimate goal of feminism is complicated and blurred. The current success and achievements of feminism can be attributed to the needs of cheap labor from the labor market. Therefore, women, like all other oppressed groups, are merely the object to be exploited by capital. The ultimate goal of feminism should be overhauling the current system and building a real equitable world.

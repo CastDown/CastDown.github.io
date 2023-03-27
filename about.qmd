@@ -1,0 +1,25 @@
+---
+title: "About"
+about: 
+  template: trestles
+  links:
+  - icon: twitter
+    text: twitter
+    href: https://twitter.com/@T_Liwei
+  - icon: github
+    text: Github
+    href: https://github.com/CastDown
+image: profile.jpg
+---
+
+# Who I am?
+
+My name is Liwei Jiang. You can call me Tony if you like.
+
+Currently, I am a second-year master of public policy student at Sanford School of Public Policy, Duke University. My concentration is energy and environment policy. Before came to Duke, I had my undergraduate at Southern University of Science and technology in China, majoring in Chemistry. Then, I worked in multiple industries for three years in China, including e-commerce, exports, and education.
+
+## Education
+
+2021-2023 Master of Public Policy, Energy and Environment Policy Concentration, Duke University, Durham, NC, USA
+
+2014-2018 Bachelor of Science in Chemistry, Southern University of Science and Techonology, Shenzhen, Guangdong, China

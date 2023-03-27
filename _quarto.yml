@@ -1,0 +1,28 @@
+project:
+  type: website
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Liwei Jiang's Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - text: Blogs
+        href: posts.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
