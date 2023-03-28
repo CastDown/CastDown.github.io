@@ -16,7 +16,9 @@ image: profile.jpg
 
 My name is Liwei Jiang. You can call me Tony if you like.
 
-Currently, I am a second-year master of public policy student at Sanford School of Public Policy, Duke University. My concentration is energy and environment policy. Before came to Duke, I had my undergraduate at Southern University of Science and technology in China, majoring in Chemistry. Then, I worked in multiple industries for three years in China, including e-commerce, exports, and education.
+Currently, I'm pursuing a master's degree in Public Policy at Duke University's Sanford School of Public Policy, specializing in energy and environmental policy. I obtained my undergraduate degree in Chemistry from the Southern University of Science and Technology in China, and subsequently worked in various industries such as e-commerce, exports, and education for three years.
+
+Realizing climate change presents both challenges and opportunities, I decided to applied for Duke's public policy program. My aim is to integrate my private sector experience into public policy, with the goal of mobilizing more resources to combat climate change, facilitate the transition to clean energy, and unlock development opportunities.
 
 ## Education
 
