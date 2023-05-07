@@ -4,17 +4,17 @@ title: My Curriculum Vitae
 
 ***EDUCATION***
 
-+------------+-----------------------------------------------+-----------------+
-| 2021～2023 | Duke University                               | Durham, NC      |
-|            |                                               |                 |
-|            | Candidate for Master of Public Policy,        |                 |
-|            |                                               |                 |
-|            | Energy and Environment Policy Concentration   |                 |
-+------------+-----------------------------------------------+-----------------+
-| 2014～2018 | Southern University of Science and Technology | Shenzhen, China |
-|            |                                               |                 |
-|            | Bachelor of Science in Chemistry              |                 |
-+------------+-----------------------------------------------+-----------------+
++--------------+-----------------------------------------------+-----------------+
+| 2021～2023   | Duke University                               | Durham, NC      |
+|              |                                               |                 |
+|              | Candidate for Master of Public Policy,        |                 |
+|              |                                               |                 |
+|              | Energy and Environment Policy Concentration   |                 |
++--------------+-----------------------------------------------+-----------------+
+| 2014～2018   | Southern University of Science and Technology | Shenzhen, China |
+|              |                                               |                 |
+|              | Bachelor of Science in Chemistry              |                 |
++--------------+-----------------------------------------------+-----------------+
 
 ***EXPERIENCE***
 
@@ -42,13 +42,17 @@ title: My Curriculum Vitae
 
 ***PROJECTS***
 
-|                                  |                                                                                                   |
-|----------------------------------|---------------------------------------------------------------------------------------------------|
++----------------------------------+---------------------------------------------------------------------------------------------------+
 | Master's Project                 | Enhancing the Adoption of Green Agricultural Technologies in Guangdong, China                     |
++----------------------------------+---------------------------------------------------------------------------------------------------+
 | Spring Consulting Project        | North Carolina's Policing and ARP Funds Allocation - Client: North Carolina Budget and Tax Center |
++----------------------------------+---------------------------------------------------------------------------------------------------+
 | Development Intervention Project | Promoting Catastrophic Agriculture Insurance in Henan China                                       |
++----------------------------------+---------------------------------------------------------------------------------------------------+
 | Econometrics Project I           | Assessing National Policy Impact on China's Interprovincial Trades and Exports                    |
++----------------------------------+---------------------------------------------------------------------------------------------------+
 | Econometrics Project II          | The Effect of Deferred Action for Childhood Arrivals on Unauthorized immigrants                   |
++----------------------------------+---------------------------------------------------------------------------------------------------+
 
 ***AWARDS & CERTIFICATES***
 
@@ -62,10 +66,14 @@ title: My Curriculum Vitae
 
 ***LEADERSHIP***
 
-|              |                                                |                                               |
-|--------------|------------------------------------------------|-----------------------------------------------|
-| *2022\~2023* | Treasuerer                                     | Sanford School Student Council                |
-| *2022\~2023* | Non-Voting Board Member                        | Thomas Leadership Mentor Academy              |
-| *2015\~2018* | Captain, Men's Soccer College Team             | Southern University of Science and Technology |
-| *2015\~2018* | Captain, Men's Soccer Team of Zhicheng College | Southern University of Science and Technology |
-| *2015\~2017* | President, Student Union of Zhicheng College   | Southern University of Science and Technology |
++--------------+------------------------------------------------+-------------------------------------------------+
+| *2022\~2023* | Treasurer                                      | Sanford Master of Public Policy Student Council |
++--------------+------------------------------------------------+-------------------------------------------------+
+| *2022\~2023* | Non-Voting Board Member                        | Thomas Leadership Mentor Academy                |
++--------------+------------------------------------------------+-------------------------------------------------+
+| *2015\~2018* | Captain, Men's Soccer College Team             | Southern University of Science and Technology   |
++--------------+------------------------------------------------+-------------------------------------------------+
+| *2015\~2018* | Captain, Men's Soccer Team of Zhicheng College | Southern University of Science and Technology   |
++--------------+------------------------------------------------+-------------------------------------------------+
+| *2015\~2017* | President, Student Union of Zhicheng College   | Southern University of Science and Technology   |
++--------------+------------------------------------------------+-------------------------------------------------+
