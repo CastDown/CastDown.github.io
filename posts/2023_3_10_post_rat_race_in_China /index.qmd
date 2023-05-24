@@ -3,13 +3,13 @@ title: "What Can We Do to Stop Rat Race in China's Labor Market"
 description: "Productivity and Individual Utility - A Chicken and Egg Problem"
 author:
   - name: Liwei Jiang
-    url: https://samanthacsik.github.io/
+    url: https://github.com/CastDown/CastDown.github.io 
     orcid: 0009-0004-3530-8862
     affiliation: Master of Public Policy Program @ Sanford School of Public Policy, Duke University
 date: 03-10-2023
 categories: [Economic Development, Labor Market] # self-defined categories
 citation: 
-  url: https://samanthacsik.github.io/
+  url: https://github.com/CastDown/CastDown.github.io
   #use links
 # image:  # file name of the picture, the picture should live in this subdirectory
 draft: false # setting this to `true` will prevent your post from appearing

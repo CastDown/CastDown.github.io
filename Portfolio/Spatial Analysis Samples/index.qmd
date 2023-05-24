@@ -1,3 +1,20 @@
+---
+title: "Samples of My Spatial Analysis Using R"
+description: "Some Examples Retrieved From My Previous Work"
+author:
+  - name: Liwei Jiang
+    url: https://github.com/CastDown/CastDown.github.io
+    orcid: 0009-0004-3530-8862
+    affiliation: Master of Public Policy Program @ Sanford School of Public Policy, Duke University
+date: 05-24-2023
+categories: [Portfolio] # self-defined categories
+citation: 
+  url: https://github.com/CastDown/CastDown.github.io 
+  #use links
+# image:  # file name of the picture, the picture should live in this subdirectory
+draft: false # setting this to `true` will prevent your post from appearing
+---
+
 1.  Spatial Analysis of Math Performance Gap between Hispanic and White Students at Grade Three
 
 ![](images/test.jpeg){fig-align="center"}

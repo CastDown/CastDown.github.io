@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Portfolio">Portfolio <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -168,26 +168,42 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1684960506956" data-listing-reading-time-sort="0.155">
-<a href="./Portfolio/Spatial Analysis Samples/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./Portfolio/Spatial Analysis Samples/images/test.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<div class="card-text listing-description">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Portfolio" data-listing-date-sort="1684900800000" data-listing-file-modified-sort="1684961102401" data-listing-reading-time-sort="0.155">
+<div class="thumbnail">
+<p><a href="./Portfolio/Spatial Analysis Samples/index.html"> <img src="./Portfolio/Spatial Analysis Samples/images/test.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./Portfolio/Spatial Analysis Samples/index.html">
+<h3 class="no-anchor listing-title">
+Samples of My Spatial Analysis Using R
+</h3>
+<div class="listing-subtitle">
 
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
 </div>
 </a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Portfolio'); return false;">
+Portfolio
+</div>
+</div>
+<a href="./Portfolio/Spatial Analysis Samples/index.html">
+<div class="listing-description">
+<p>Some Examples Retrieved From My Previous Work</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./Portfolio/Spatial Analysis Samples/index.html">
+<div class="listing-date">
+May 24, 2023
+</div>
+<div class="listing-author">
+Liwei Jiang
+</div>
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
