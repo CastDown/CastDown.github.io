@@ -1,0 +1,7 @@
+1.  Spatial Analysis of Math Performance Gap between Hispanic and White Students at Grade Three
+
+![](images/test.jpeg){fig-align="center"}
+
+2.  Spatial Analysis of Language Performance Gap between Hispanic and White Students at Grade Three
+
+![](images/ela_hisblk.png){fig-align="center"}
