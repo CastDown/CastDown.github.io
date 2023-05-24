@@ -16,6 +16,8 @@ website:
         text: CV
       - text: Blogs
         href: posts.qmd
+      - text: Portfolio
+        href: portfolio.qmd
 
 format:
   html:
